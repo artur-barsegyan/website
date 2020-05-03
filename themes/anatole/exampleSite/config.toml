@@ -1,7 +1,7 @@
-baseURL = "http://barsegyan.me"
+baseURL = "https://example.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Artur Barsegyan"
+title = "Website of Jane Doe"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -13,9 +13,9 @@ enableEmoji = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "I'm Artur Barsegyan"
-author = "Artur Barsegyan"
-description = "Product Manager of Tarantool/Mail.Ru"
+title = "I'm Jane Doe"
+author = "Jane Doe"
+description = "Call me Jane"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -44,21 +44,21 @@ url = "https://www.instagram.com/"
 [[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
-url = "mailto:a.barsegyan96@gmail.com"
+url = "mailto:mail@alexbilz.com"
 
 ## Menu items
 
 [menu]
 
   [[menu.main]]
-  name = "Portfolio"
+  name = "Home"
   identifier = "home"
-  weight = 300
+  weight = 100
   url = "/"
 
   [[menu.main]]
   name = "Posts"
-  weight = 300
+  weight = 200
   identifier = "posts"
   url = "/post/"
 
