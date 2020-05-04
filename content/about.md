@@ -19,19 +19,19 @@ My responsibilities:
 #### Software Development
 
 Previous, I've involved in **a lot of different kinds developments:**
-- [Highload distributed cache for Megafon services]()
-- [System for deep packet inspection via GPU]()
-- [Mingle — service for promotion in Instagram]()
-- [Manufacture management system]()
+- [Highload distributed cache for Megafon services](https://www.youtube.com/watch?v=dyxJDHyjZp4)
+- [System for deep packet inspection via GPU](https://ieeexplore.ieee.org/document/8071958)
+- [Mingle — service for promotion in Instagram](./post/mingle-promotion-service/)
+- [Manufacture management system](./post/manufacture-scheduler/)
 - and some another developments (mobile/Web/sysprog).
 
-[Checkout my Github]() to see my another projects.
+[Checkout my Github](https://github.com/artur-barsegyan/) to see my another projects.
 
 #### Hobbies
 
 I love write about my thoughts and hobbies.
-- Have [a Telegram channel]() with my insights and updates.
-- Have a publication at Habr about [App Reversing stuff]().
+- Have [a Telegram channel](https://teleg.run/areyousudo) with my insights and updates.
+- Have a publication at Habr about [App Reversing stuff](https://habr.com/ru/post/450394/).
 
 My another interests is philosophy and psychology.
 
